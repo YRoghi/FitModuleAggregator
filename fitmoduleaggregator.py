@@ -19,7 +19,7 @@ for filename in os.listdir(os.getcwd() + "/fits"):
     fit = fit_parser.parse_fit(file.readlines())
 
     for item in fit:
-        if stock_list_quantity.__contains__(item):
+        if item in stock_list_quantity:
             stock_list_quantity[item] += fit[item]
             stock_list_occurrence[item] += 1
         else:

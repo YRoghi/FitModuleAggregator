@@ -69,7 +69,7 @@ class EFTParser(object):
                 while module[-1] != ",":
                     module = module[:-1]
                 module = module[:-1]  # Removes ","
-            if modules.__contains__(module):
+            if module in modules:
                 modules[module] += 1
             else:
                 modules[module] = 1
