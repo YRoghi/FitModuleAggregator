@@ -1,0 +1,31 @@
+[Worm, LR Worm]
+Micro Auxiliary Power Core I
+Drone Damage Amplifier II
+
+10MN Y-S8 Compact Afterburner
+Adaptive Invulnerability Field II
+F-90 Compact Sensor Booster
+Republic Fleet Small Shield Extender
+
+Light Missile Launcher II
+Light Missile Launcher II
+Light Missile Launcher II
+
+Small Anti-EM Screen Reinforcer II
+Small Core Defense Field Extender II
+Small Ancillary Current Router II
+
+
+
+Warrior II x2
+Hobgoblin II x1
+Acolyte II x2
+
+Caldari Navy Scourge Light Missile x500
+Caldari Navy Inferno Light Missile x500
+Targeting Range Script x1
+Scan Resolution Script x1
+Caldari Navy Nova Light Missile x500
+Caldari Navy Mjolnir Light Missile x500
+Nanite Repair Paste x50
+

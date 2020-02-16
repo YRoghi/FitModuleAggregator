@@ -1,0 +1,30 @@
+[Cormorant, NewbroCormorant]
+Vortex Compact Magnetic Field Stabilizer
+Vortex Compact Magnetic Field Stabilizer
+
+F-90 Compact Sensor Booster
+F-90 Compact Sensor Booster
+5MN Y-T8 Compact Microwarpdrive
+
+150mm 'Scout' Accelerator Cannon
+150mm 'Scout' Accelerator Cannon
+150mm 'Scout' Accelerator Cannon
+150mm 'Scout' Accelerator Cannon
+150mm 'Scout' Accelerator Cannon
+150mm 'Scout' Accelerator Cannon
+150mm 'Scout' Accelerator Cannon
+
+Small Hybrid Locus Coordinator II
+Small Hybrid Locus Coordinator II
+Small Ancillary Current Router I
+
+
+
+
+Caldari Navy Antimatter Charge S x1000
+Caldari Navy Tungsten Charge S x1000
+Caldari Navy Iron Charge S x1000
+Targeting Range Script x2
+Scan Resolution Script x2
+Nanite Repair Paste x50
+

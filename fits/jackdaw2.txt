@@ -1,0 +1,35 @@
+[Jackdaw, Venal Jackdaw]
+Ballistic Control System II
+Nanofiber Internal Structure II
+Damage Control II
+
+5MN Quad LiF Restrained Microwarpdrive
+Adaptive Invulnerability Field II
+Republic Fleet Medium Shield Extender
+Missile Guidance Computer II
+EM Ward Amplifier II
+
+Light Missile Launcher II
+Light Missile Launcher II
+Light Missile Launcher II
+Light Missile Launcher II
+Light Missile Launcher II
+
+Small Core Defense Field Extender I
+Small Core Defense Field Extender I
+Small Core Defense Field Extender I
+
+
+
+
+Caldari Navy Scourge Light Missile x800
+Caldari Navy Inferno Light Missile x800
+Scourge Fury Light Missile x800
+Nova Fury Light Missile x800
+Missile Range Script x1
+Inferno Fury Light Missile x800
+Mjolnir Fury Light Missile x800
+Caldari Navy Mjolnir Light Missile x800
+Nanite Repair Paste x75
+Caldari Navy Nova Light Missile x800
+

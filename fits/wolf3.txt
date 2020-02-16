@@ -1,0 +1,31 @@
+[Wolf, Nano Small Gang]
+Gyrostabilizer II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+Tracking Enhancer II
+Small Ancillary Armor Repairer
+
+5MN Quad LiF Restrained Microwarpdrive
+Warp Disruptor II
+
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+
+Small Ancillary Current Router I
+Small Projectile Collision Accelerator II
+
+
+
+
+Republic Fleet Phased Plasma S x984
+Republic Fleet EMP S x864
+Republic Fleet Depleted Uranium S x1000
+Republic Fleet Fusion S x944
+Republic Fleet Titanium Sabot S x428
+Quake S x500
+Tremor S x476
+Nanite Repair Paste x241
+Agency 'Overclocker' SB5 Dose II x1
+

@@ -1,0 +1,30 @@
+[Algos, Armor Algos]
+Damage Control II
+Prototype Energized Adaptive Nano Membrane I
+400mm Rolled Tungsten Compact Plates
+
+Faint Epsilon Scoped Warp Scrambler
+5MN Y-T8 Compact Microwarpdrive
+Fleeting Compact Stasis Webifier
+
+Small Energy Neutralizer II
+150mm Light 'Scout' Autocannon I
+150mm Light 'Scout' Autocannon I
+150mm Light 'Scout' Autocannon I
+150mm Light 'Scout' Autocannon I
+150mm Light 'Scout' Autocannon I
+
+Small Trimark Armor Pump I
+Small Trimark Armor Pump I
+Small Trimark Armor Pump I
+
+
+
+Acolyte II x6
+Infiltrator II x3
+
+Republic Fleet Phased Plasma S x1800
+Republic Fleet Fusion S x1000
+Nanite Repair Paste x50
+Republic Fleet EMP S x1000
+
