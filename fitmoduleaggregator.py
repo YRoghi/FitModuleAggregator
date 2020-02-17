@@ -37,13 +37,18 @@ CURRENT_ROW = 5
 
 for item in stock_list_occurrence:
     item_id_request = requests.get(f"https://esi.evetech.net/latest/search/?categories=inventory_type&datasource=tranquility&language=en-us&search=%20{item.replace(' ', '%20')}&strict=true")
-    item_id = item_id_request.json()['inventory_type'][0]
-    item_info_request = requests.get(f"https://esi.evetech.net/latest/universe/types/{item_id}/?datasource=tranquility&language=en-us")
-    item_packaged_volume = item_info_request.json()['packaged_volume']
-    current_row = sheet.range(f"A{CURRENT_ROW}:D{CURRENT_ROW}")
-    current_row[0].value = item                                                       # Item Name
-    current_row[1].value = item_id                                                    # Item ID
-    current_row[2].value = item_packaged_volume                                       # Volume
-    current_row[3].value = stock_list_occurrence[item]/len(os.listdir(fits_path))     # Weight
-    sheet.update_cells(current_row)
-    CURRENT_ROW += 1
+    if item_id_request.json():
+        item_id = item_id_request.json()['inventory_type'][0]
+        item_info_request = requests.get(f"https://esi.evetech.net/latest/universe/types/{item_id}/?datasource=tranquility&language=en-us")
+        item_packaged_volume = item_info_request.json()['packaged_volume']
+        current_row = sheet.range(f"A{CURRENT_ROW}:D{CURRENT_ROW}")
+        current_row[0].value = item                                                       # Item Name
+        current_row[1].value = item_id                                                    # Item ID
+        current_row[2].value = item_packaged_volume                                       # Volume
+        current_row[3].value = stock_list_occurrence[item]/len(os.listdir(fits_path))     # Weight
+        sheet.update_cells(current_row)
+        CURRENT_ROW += 1
+    else:
+        print(f"ERROR: Could not resolve: {item}.")
+
+print("Sheet updated COMPLETED.")

@@ -1,0 +1,28 @@
+[Wolf, CKG Wolf]
+Gyrostabilizer II
+200mm Steel Plates II
+Centum C-Type Energized EM Membrane
+Small Ancillary Armor Repairer
+Coreli A-Type EM Plating
+
+5MN Quad LiF Restrained Microwarpdrive
+J5 Enduring Warp Disruptor
+
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+Rocket Launcher II
+
+Small Anti-EM Pump II
+Small Processor Overclocking Unit II
+
+
+
+
+Hail S x3120
+Nanite Repair Paste x39
+Republic Fleet EMP S x1000
+Republic Fleet Phased Plasma S x1000
+Scourge Rage Rocket x1996
+

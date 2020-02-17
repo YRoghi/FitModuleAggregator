@@ -1,0 +1,27 @@
+[Wolf, Arty Wolf]
+Gyrostabilizer II
+Tracking Enhancer II
+Small Ancillary Armor Repairer
+EFFA Compact Assault Damage Control
+Adaptive Nano Plating II
+
+5MN Y-T8 Compact Microwarpdrive
+Initiated Compact Warp Disruptor
+
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+250mm Light Artillery Cannon II
+
+Small Anti-Explosive Pump I
+Small Projectile Collision Accelerator II
+
+
+
+
+Republic Fleet Depleted Uranium S x750
+Republic Fleet Phased Plasma S x702
+Republic Fleet EMP S x510
+Nanite Repair Paste x133
+Republic Fleet Fusion S x562
+

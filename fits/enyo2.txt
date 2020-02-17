@@ -1,0 +1,28 @@
+[Enyo, Boris Enyo]
+Corpii A-Type Explosive Plating
+Magnetic Field Stabilizer II
+Assault Damage Control II
+Adaptive Nano Plating II
+
+Faint Epsilon Scoped Warp Scrambler
+5MN Quad LiF Restrained Microwarpdrive
+Fleeting Compact Stasis Webifier
+
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Small Knave Scoped Energy Nosferatu
+
+Small Hybrid Burst Aerator I
+Small Hybrid Collision Accelerator I
+
+
+
+Warrior II x1
+
+Void S x2480
+Nanite Repair Paste x100
+Null S x2000
+Federation Navy Antimatter Charge S x2000
+

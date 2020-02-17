@@ -1,0 +1,31 @@
+[Garmur, Takle]
+IFFA Compact Damage Control
+Missile Guidance Enhancer II
+Nanofiber Internal Structure II
+
+Small Cap Battery II
+F-90 Compact Sensor Booster
+Caldari Navy Warp Disruptor
+5MN Y-T8 Compact Microwarpdrive
+
+Light Missile Launcher II
+Light Missile Launcher II
+Light Missile Launcher II
+
+Small Bay Loading Accelerator I
+Small Warhead Flare Catalyst I
+Small Warhead Rigor Catalyst I
+
+
+
+
+Caldari Navy Scourge Light Missile x659
+Caldari Navy Inferno Light Missile x620
+Scourge Fury Light Missile x500
+Targeting Range Script x1
+Scan Resolution Script x1
+Mjolnir Fury Light Missile x620
+Mjolnir Precision Light Missile x620
+Nanite Repair Paste x80
+Caldari Navy Nova Light Missile x620
+

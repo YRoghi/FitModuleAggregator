@@ -1,0 +1,38 @@
+[Jackdaw, TEST Jackdaw]
+Ballistic Control System II
+Missile Guidance Enhancer II
+Power Diagnostic System II
+
+5MN Y-T8 Compact Microwarpdrive
+EM Ward Amplifier II
+Republic Fleet Medium Shield Extender
+Adaptive Invulnerability Field II
+Missile Guidance Computer II
+
+Light Missile Launcher II
+Light Missile Launcher II
+Light Missile Launcher II
+Light Missile Launcher II
+Light Missile Launcher II
+Defender Launcher I
+
+Small Core Defense Field Extender II
+Small Core Defense Field Extender II
+Small Auxiliary Thrusters II
+
+
+
+
+Caldari Navy Scourge Light Missile x750
+Caldari Navy Inferno Light Missile x750
+Defender Missile I x100
+Scourge Fury Light Missile x1000
+Nova Fury Light Missile x1000
+Missile Range Script x1
+Missile Precision Script x1
+Caldari Navy Nova Light Missile x750
+Caldari Navy Mjolnir Light Missile x750
+Nanite Repair Paste x75
+Inferno Fury Light Missile x1000
+Mjolnir Fury Light Missile x1000
+

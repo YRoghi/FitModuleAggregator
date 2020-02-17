@@ -1,0 +1,31 @@
+[Jaguar, Murray]
+Co-Processor II
+Ballistic Control System II
+EFFA Compact Assault Damage Control
+
+Medium Ancillary Shield Booster
+Initiated Compact Warp Scrambler
+Stasis Webifier II
+1MN Y-S8 Compact Afterburner
+5MN Y-T8 Compact Microwarpdrive
+
+Rocket Launcher II
+Rocket Launcher II
+Rocket Launcher II
+125mm Gatling AutoCannon II
+
+Small Bay Loading Accelerator I
+Small Core Defense Field Extender I
+
+
+
+Hobgoblin II x2
+Acolyte II x2
+
+Mjolnir Rage Rocket x1200
+Caldari Navy Scourge Rocket x1000
+Republic Fleet Titanium Sabot S x1000
+Navy Cap Booster 50 x69
+Nova Rage Rocket x1200
+Inferno Rage Rocket x1200
+

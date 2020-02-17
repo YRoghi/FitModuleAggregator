@@ -1,0 +1,28 @@
+[Crucifier, NewBro Crucifier 1.12.18]
+Micro Auxiliary Power Core I
+F-89 Compact Signal Amplifier
+IFFA Compact Damage Control
+
+Balmer Series Compact Tracking Disruptor I
+Balmer Series Compact Tracking Disruptor I
+Medium Azeotropic Restrained Shield Extender
+5MN Quad LiF Restrained Microwarpdrive
+
+125mm Gatling AutoCannon I
+125mm Gatling AutoCannon I
+
+Small Anti-EM Screen Reinforcer I
+Small Anti-Thermal Screen Reinforcer I
+Small Core Defense Field Extender I
+
+
+
+Warrior I x4
+Hobgoblin I x5
+
+Phased Plasma S x1000
+EMP S x1000
+Nanite Repair Paste x20
+Optimal Range Disruption Script x2
+Tracking Speed Disruption Script x2
+
