@@ -4,7 +4,7 @@ class EFTParser(object):
     def parse_fit(eft):
         """
         Fit parser for the 'Fitting Calculator'. This takes a list in EFT format and returns a dictionary with items as
-        keys and quantities as values
+        keys and quantities as values. NOTE: Items loaded into modules are automatically discarded.
         :param eft: EvE Fitting Tool (Standard EvE fit format) list
         :return: Dictionary containing items as keys and their associated quantity as values {item: quantity}
         """
@@ -80,8 +80,8 @@ class EFTParser(object):
     def __misc_parser(eft_misc):
         """
         Parses the misc items in the eft fit and returns a dictionary with items as keys and quantities as values
-        :param eft_misc:
-        :return:
+        :param eft_misc: List full of EFT misc items
+        :return: Dictionary using items as keys and quantities as values
         """
         misc_items = dict()
         for misc in eft_misc:
